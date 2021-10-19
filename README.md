@@ -1,0 +1,1 @@
+# simple-ethereumjs-wallet-gen

@@ -1,0 +1,2 @@
+keystoreDir=<Directory to write the keystore.txt file/keystore.txt>
+walletPassword=<password for wallet>
